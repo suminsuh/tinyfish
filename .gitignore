@@ -1,0 +1,19 @@
+# dependencies
+/node_modules
+
+# next
+/.next
+/out
+
+# env
+.env
+.env.local
+.env.*.local
+
+# misc
+.DS_Store
+*.tsbuildinfo
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
